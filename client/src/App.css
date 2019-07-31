@@ -62,8 +62,9 @@ body {
 
 h2 {
   font-size: 75px;
-  font-weight: 900;
-  margin: 10px 0 0 0; 
+  font-weight: 9000;
+  font-variant: extra-bold;
+  margin: 10px 0 0 0;
 }
 
 h4 {

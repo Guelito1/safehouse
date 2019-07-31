@@ -11,7 +11,7 @@ import {
 const Home = props => (
     <>
         <div className='home'>
-            <h2>SAFEHOUSE!🏠</h2>
+            <h2>SafeHouse🏠</h2>
             <h4>grassroots initiative for earthquake safety</h4>
             <div className="context">
                 <img className="image" src={Earthquakes}/><br/>
